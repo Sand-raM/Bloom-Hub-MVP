@@ -57,7 +57,7 @@ nav ul li a {
 
 /* Cover section styles */
 .cover-content {
-    background-image: url('assets/images/Bloom.PNG');
+    background-image: url('background.jpg');
     background-size: cover;
     background-position: center;
     height: 500px;
