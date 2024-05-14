@@ -8,7 +8,7 @@ Bloom Hub is a user-friendly app designed to simplify women's reproductive healt
 
 Deployed site:  https://sand-ram.github.io/Bloom-Hub-MVP/
 
-Blogpost: 
+Blogpost: https://www.linkedin.com/in/muraza-sandra-3064941a1/recent-activity/all/
 
 Author's Linkedin: https://www.linkedin.com/in/muraza-sandra-3064941a1/
 
