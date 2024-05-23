@@ -66,6 +66,8 @@ nav ul li a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 2px solid red;  /* Temporary for testing */
+    background-color: yellow;  /* Temporary for testing */
 }
 
 .cover-content {
