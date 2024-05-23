@@ -57,7 +57,7 @@ nav ul li a {
 
 /* Cover section styles */
 #cover {
-    background-image: url('assets/images/background.jpg');
+    background-image: url("assets/images/background.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
